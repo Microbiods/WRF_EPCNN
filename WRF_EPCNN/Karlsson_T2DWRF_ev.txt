@@ -1,0 +1,4 @@
+Mean AUCs: 0.7047619047619047
+Mean Known weights: 0.470577170798256
+Mean Unknown weights: 0.529422829201744
+Time for 2 rounds running: 83.61314654350281s
