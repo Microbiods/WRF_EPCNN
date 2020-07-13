@@ -11,13 +11,15 @@ WRF_EPCNN consists of the following 2 modules:
 
 MicroPro
 https://github.com/zifanzhu/MicroPro
+
 Mash v.2.0
 https://github.com/marbl/Mash/releases
+
 PhyLoT v2
 https://phylot.biobyte.de/
 
-
 Keras
+
 Scikit-learn
 
 
@@ -28,7 +30,7 @@ The known and unknown features are obtained by using MicroPro. The taxa distribu
 With the obtained taxa annotations, we use PhyLoT v2 to generate the phylogenetic trees for both known and unknown features.
 
 
-After above steps, we can obtain 2 abundance tables with $$m*n$$ for both known and unknown features, where $$m$$ is the number of samples while $$n$$ is the features with their annotions. And the control and case description is considered as the label of each sample. Also we obtain the Newick files of the phylogenetic trees for both known and unknown features.
+After above steps, we can obtain 2 abundance tables with $m*n$ for both known and unknown features, where $m$ is the number of samples while $n$ is the features with their annotions. And the control and case description is considered as the label of each sample. Also we obtain the Newick files of the phylogenetic trees for both known and unknown features.
 
 The annotions in known features are the taxa id in NCBI database, and 'unknown_name.xlsx' includes the distributed level names of unknown features which the annotions are raw bin names. 
 
