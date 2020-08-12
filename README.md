@@ -23,7 +23,7 @@ Keras
 Scikit-learn
 
 
-# Data prapertion
+# Data preparation
 
 The known and unknown features are obtained by using MicroPro. The taxa distributed taxonomy annotations for known features can be directly obtained by Centrifuge (In MicroPro). For unknown features, we follow the Mash distance of 0.34 to classify the microbes into the genus level (The same as MicroPro). Technically, a similar approach can be used to distribute all the MAGs into the specific levels, and the obtained taxonomy annotations can be used to generate the phylogenetic tree for the unknown features. However, bigger Mash distance also means the inaccurate distributed level without confidence. If Mash cannot distribute the taxa to any levels or the obtained Mash distance is too big to get the accurate levels, the random arrangemet for the unknown taxa sequences can also be accepted.
 
