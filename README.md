@@ -26,6 +26,10 @@ xlrd 1.2.0
 
 ete3 3.1.2
 
+pandas-1.3.2
+
+numpy-1.21.2
+
 
 # Data preparation
 
