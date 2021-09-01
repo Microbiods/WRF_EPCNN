@@ -20,7 +20,7 @@ https://phylot.biobyte.de/
 
 Keras
 
-Scikit-learn
+Scikit-learn 0.24.1
 
 
 # Data preparation
