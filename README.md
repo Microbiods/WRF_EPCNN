@@ -20,9 +20,9 @@ https://phylot.biobyte.de/
 
 Tensorflow  2.4.1 
 
-Scikit-learn 0.24.1
+scikit-learn 0.24.1
 
-
+xlrd 2.0.1
 
 ete3 3.1.2
 
