@@ -22,6 +22,8 @@ Keras
 
 Scikit-learn 0.24.1
 
+ete3 3.1.2
+
 
 # Data preparation
 
