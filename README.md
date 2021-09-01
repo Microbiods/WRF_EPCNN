@@ -45,6 +45,9 @@ The annotions in known features are the taxa id in NCBI database, and 'unknown_n
 The input includes four files, assume the name of example set is 'Karlsson_T2D', then the files names should be  'Karlsson_T2D_known'.csv
 'Karlsson_T2D_unknown'.csv and 'Karlsson_T2D_y'.csv, where the first two files are the features and the last file is labels. 'tree.txt' is the Newick file obtained by PhyLoT v2. 'unknown_name.xlsx' includes the distributed level names of unknown features which the annotions are raw bin names. 
 
+
+pip install -r requirements.txt
+
 # Running WRF
 
 Since WRF is based on RF which only accepts the dimensional vector, therefore we just need the features and the labels here without the phylogenetic trees. We offer two features for ERF which are select the important biomarkers as well as evaluation.
