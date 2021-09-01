@@ -22,7 +22,7 @@ Tensorflow  2.4.1
 
 scikit-learn 0.24.1
 
-xlrd 2.0.1
+xlrd 1.2.0
 
 ete3 3.1.2
 
