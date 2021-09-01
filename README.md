@@ -18,9 +18,11 @@ https://github.com/marbl/Mash/releases
 PhyLoT v2
 https://phylot.biobyte.de/
 
-Keras
+Tensorflow  2.4.1 
 
 Scikit-learn 0.24.1
+
+
 
 ete3 3.1.2
 
